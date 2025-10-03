@@ -1,6 +1,6 @@
 #!/bin/bash
 while true
-do
+d
   git add .
   git commit -m "auto update"
   git push origin main
